@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 [Configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) has been added to optimize it for [CodeSandbox Projects](https://codesandbox.io/p/dashboard).
 
-[![Edit in CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/github/codesandbox/codesandbox-template-next.js)
+[![Edit in 1024Code](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://1024code.com/ide/Bz5Rjyc#/README.md)
 
 ## Resources
 
@@ -12,3 +12,4 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
 - [Next.js — GitHub](https://github.com/vercel/next.js/)
 - [Next.js — Docs](https://nextjs.org/docs)
+
